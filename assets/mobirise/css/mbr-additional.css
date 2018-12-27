@@ -1383,12 +1383,12 @@ body {
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #7e9094;
   transition: none;
   min-height: 77px;
 }
 .cid-qTkzRZLJNu .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #7e9094;
 }
 .cid-qTkzRZLJNu a {
   font-style: normal;
@@ -1472,7 +1472,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qTkzRZLJNu .dropdown .dropdown-menu {
-  background: #333333;
+  background: #7e9094;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1797,11 +1797,73 @@ body {
 .cid-rdsvYkvC1M .mbr-section-btn {
   text-align: center;
 }
+.cid-rdsyAEzF0Y {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-rdsyAEzF0Y h2 {
+  text-align: left;
+}
+.cid-rdsyAEzF0Y h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rdsyAEzF0Y p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rdsyAEzF0Y .aside-content {
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-rdsyAEzF0Y .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rdsyAEzF0Y .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rdsyAEzF0Y .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rdsyAEzF0Y .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rdsyAEzF0Y .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rdsyAEzF0Y .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rdsyAEzF0Y .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rdsyAEzF0Y .card-img span {
+    font-size: 40px !important;
+  }
+}
 .cid-rdrEMdAjrJ {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-color: #bcbcbc;
-  background: linear-gradient(#bcbcbc, #2e2e2e);
+  background-color: #bfd9ef;
+  background: linear-gradient(#bfd9ef, #99c8ef);
 }
 .cid-rdrEMdAjrJ .carousel-control {
   background: #000;
@@ -2003,7 +2065,7 @@ body {
   }
 }
 .cid-rdrEMdAjrJ H2 {
-  color: #ffffff;
+  color: #1b1b1b;
 }
 .cid-rdqLrI6DFl {
   padding-top: 30px;
