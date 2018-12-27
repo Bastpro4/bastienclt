@@ -1770,17 +1770,15 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1128.jpg");
-}
 #instagram-feed-block-4 .inst__title {
   text-align: center;
+  color: #ffffff;
 }
 .cid-rdrEMdAjrJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #d4d6d5;
-  background: linear-gradient(#d4d6d5, #b4ccd6);
+  background-color: #99c8ef;
+  background: linear-gradient(#99c8ef, #55b4d4);
 }
 .cid-rdrEMdAjrJ .carousel-control {
   background: #000;
