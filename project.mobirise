@@ -493,7 +493,7 @@
             "rows": "8",
             "showMoreButton": true,
             "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
+            "imagesPerRowSlider": "4",
             "spacing": "40",
             "fullWidth": false,
             "paddingTop": "2",
