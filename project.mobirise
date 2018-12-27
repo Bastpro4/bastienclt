@@ -498,13 +498,13 @@
             "fullWidth": false,
             "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#55b4d4",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
+            "overlayOpacity": "0"
           },
           "title": "Mon instagram",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
