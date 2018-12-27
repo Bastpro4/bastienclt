@@ -1776,6 +1776,18 @@ body {
 #instagram-feed-block-4 .inst__title {
   text-align: center;
 }
+.cid-rdruUZRoNZ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #bcedff, #d9d9d9);
+}
+.cid-rdruUZRoNZ .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rdruUZRoNZ .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rdqLrI6DFl {
   padding-top: 30px;
   padding-bottom: 30px;
