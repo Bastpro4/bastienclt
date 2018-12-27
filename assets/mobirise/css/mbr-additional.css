@@ -1777,8 +1777,8 @@ body {
 .cid-rdrEMdAjrJ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #99c8ef;
-  background: linear-gradient(#99c8ef, #55b4d4);
+  background-color: #bcbcbc;
+  background: linear-gradient(#bcbcbc, #2e2e2e);
 }
 .cid-rdrEMdAjrJ .carousel-control {
   background: #000;
@@ -1978,6 +1978,9 @@ body {
   .cid-rdrEMdAjrJ .carousel-inner.slides6 .cloneditem-5 {
     display: block;
   }
+}
+.cid-rdrEMdAjrJ H2 {
+  color: #ffffff;
 }
 .cid-rdqLrI6DFl {
   padding-top: 30px;
